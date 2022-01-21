@@ -1,0 +1,10 @@
+[package]
+name = "kyp6_ue1"
+version = "0.1.0"
+authors = ["Maximilian Lehrbaum <maximilian.lehrbaum@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+pcarp="1.0.1"
+regex="1"
+
